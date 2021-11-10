@@ -5,8 +5,6 @@
 // and change the benchmark letter into next letter, "b"
 // after the whole process, concatenate the elements in array
 
-// 看別人怎麼寫吧
-
 package main
 
 import (
